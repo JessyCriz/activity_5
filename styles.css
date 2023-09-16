@@ -12,5 +12,5 @@
     font-weight: bold;
 }
 .override-color{
-    color:green
+    color:green !important;
 }
